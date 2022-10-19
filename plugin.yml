@@ -1,6 +1,6 @@
 ---
 name: PlayerTime
-version: 1.0.0
+version: 1.0.1
 main: UnknownOre\PlayerTime\Main
 api: 4.5.1
 permissions:
