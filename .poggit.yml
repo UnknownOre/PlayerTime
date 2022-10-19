@@ -1,0 +1,12 @@
+branches:
+  - main
+projects:
+  PlayerTime:
+    path: ""
+    icon: "/clock.png"
+    libs:
+      - src: Paroxity/Commando/Commando
+        version: ^3.0.0
+    lint:
+      phpstan: false
+...

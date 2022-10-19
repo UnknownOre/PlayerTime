@@ -1,0 +1,10 @@
+---
+name: PlayerTime
+version: 1.0.0
+main: UnknownOre\PlayerTime\Main
+api: 4.5.1
+permissions:
+  PlayerTime.use:
+    description: "PlayerTime command permission"
+    default: true
+...
