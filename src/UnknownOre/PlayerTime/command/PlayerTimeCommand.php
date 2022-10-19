@@ -18,7 +18,7 @@ class PlayerTimeCommand extends BaseCommand{
 
 	public function __construct(Main $plugin){
 		parent::__construct($plugin, "playertime", "set your virtual time.", ["ptime"]);
-		$this->setPermission("playertime.use");
+		$this->setPermission("PlayerTime.use");
 	}
 
 	protected function prepare():void{
